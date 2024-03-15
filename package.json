@@ -1,0 +1,19 @@
+{
+  "name": "@gekkoga/tea-xyz-quest",
+  "version": "1.0.0",
+  "description": "Quest for tea.xyz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snow0angel/tea-xyz-quest.git"
+  },
+  "author": "@gekkoga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snow0angel/tea-xyz-quest/issues"
+  },
+  "homepage": "https://github.com/snow0angel/tea-xyz-quest#readme"
+}
